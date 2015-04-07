@@ -1,0 +1,6 @@
+c:\users\toni\documents\visual studio 2013\Projects\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+c:\users\toni\documents\visual studio 2013\Projects\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+c:\users\toni\documents\visual studio 2013\Projects\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+c:\users\toni\documents\visual studio 2013\Projects\Perceptron\Perceptron\obj\Debug\Perceptron.csprojResolveAssemblyReference.cache
+c:\users\toni\documents\visual studio 2013\Projects\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+c:\users\toni\documents\visual studio 2013\Projects\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
